@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Link to my CV](http://chaitanyabisht.github.io/files/CV.pdf)
+[Link to my CV](https://drive.google.com/file/d/1R4RpXUo3Tsx8BE-vMU_TMiHSsq0f7AaP/view?usp=sharing)
 
 
 <!-- Education
