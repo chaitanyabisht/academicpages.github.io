@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am final year CSE (Honours) undergrad who is highly motivated towards research and development and always keen to take up new problems and look for a solution. I’m interested in Security, Networks and Distributed Systems.
+I am CS graduate from Indian Institute of Technology Bhilai who is highly motivated towards research and development and always keen to take up new problems and look for a solution. I’m interested in Security, Networks and Distributed Systems.
 
 [LinkedIn](https://www.linkedin.com/in/cbisht/)
