@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am CS graduate from Indian Institute of Technology Bhilai who is highly motivated towards research and development and always keen to take up new problems and look for a solution. I’m interested in Security, Networks and Distributed Systems.
+I graduated with honors in Computer Science from the Indian Institute of Technology Bhilai. I am highly motivated to tackle new challenges and find innovative solutions. My primary interests lie in Security, Networks, Distributed Systems, and Software Engineering.
 
 [LinkedIn](https://www.linkedin.com/in/cbisht/)
